@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce_website/static/css/main.3f7b4ed4.css",
-    "main.js": "/ecommerce_website/static/js/main.bb31180f.js",
+    "main.js": "/ecommerce_website/static/js/main.a2db7d8c.js",
     "static/media/teddybear.PNG": "/ecommerce_website/static/media/teddybear.71cc3ca87ee0267a5fc3.PNG",
     "static/media/gucci.PNG": "/ecommerce_website/static/media/gucci.a8b480c90eff50d2400b.PNG",
     "static/media/pen.PNG": "/ecommerce_website/static/media/pen.00e16fe8491b9a595bee.PNG",
@@ -10,10 +10,10 @@
     "static/media/iPhone14.jpg": "/ecommerce_website/static/media/iPhone14.7301a23f2cea7c1c1615.jpg",
     "index.html": "/ecommerce_website/index.html",
     "main.3f7b4ed4.css.map": "/ecommerce_website/static/css/main.3f7b4ed4.css.map",
-    "main.bb31180f.js.map": "/ecommerce_website/static/js/main.bb31180f.js.map"
+    "main.a2db7d8c.js.map": "/ecommerce_website/static/js/main.a2db7d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.3f7b4ed4.css",
-    "static/js/main.bb31180f.js"
+    "static/js/main.a2db7d8c.js"
   ]
 }
