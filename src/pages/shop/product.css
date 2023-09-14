@@ -1,0 +1,25 @@
+.products {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+}
+
+.product {
+    width: 200px;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: 150px;
+}
+
+.addToCartBtn {
+    margin-top: 6px;
+    border-radius: 12px;
+}
+
+.price {
+    margin: 6px 0 0 0;
+    font-weight: 700;
+}

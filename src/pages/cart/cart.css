@@ -1,0 +1,32 @@
+.item {
+    height: 120px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: auto auto 15px auto;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    padding: 10px
+}
+
+.item img {
+    height: 120px;
+    width: 140px
+}
+
+input {
+    width: 20px;
+    text-align: center;
+}
+
+.description div {
+    margin: auto auto 10px 20px;
+}
+
+.cart-button button {
+    padding: 5px;
+    border-radius: 6px;
+    margin: 10px;
+    background-color: #61dafb;
+}

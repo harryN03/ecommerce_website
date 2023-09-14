@@ -1,0 +1,32 @@
+.footer {
+    background-color: #3A9BDC;
+    padding: 2px;
+    display: grid;
+    grid-template-columns: 300px auto;  
+}
+
+
+h4 {
+    margin:5px;
+}
+
+.contact-infor {
+    text-align: left;
+    margin: 0;
+}
+p {
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.social-media-footer {
+    display: flex;
+    align-items: center;
+    padding-left: 15%;
+}
+
+.social-media-footer a {
+    margin: 15px;
+    font-size: 32px;
+    color: black
+}
