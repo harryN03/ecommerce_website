@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ecommerce-website/static/css/main.3f7b4ed4.css",
-    "main.js": "/ecommerce-website/static/js/main.3113f16c.js",
-    "static/media/teddybear.PNG": "/ecommerce-website/static/media/teddybear.71cc3ca87ee0267a5fc3.PNG",
-    "static/media/gucci.PNG": "/ecommerce-website/static/media/gucci.a8b480c90eff50d2400b.PNG",
-    "static/media/pen.PNG": "/ecommerce-website/static/media/pen.00e16fe8491b9a595bee.PNG",
-    "static/media/eraser.PNG": "/ecommerce-website/static/media/eraser.00f579a77ade638e0fa8.PNG",
-    "static/media/macbook_pro.PNG": "/ecommerce-website/static/media/macbook_pro.45df81ac31dd060c5da8.PNG",
-    "static/media/iPhone14.jpg": "/ecommerce-website/static/media/iPhone14.7301a23f2cea7c1c1615.jpg",
-    "index.html": "/ecommerce-website/index.html",
-    "main.3f7b4ed4.css.map": "/ecommerce-website/static/css/main.3f7b4ed4.css.map",
-    "main.3113f16c.js.map": "/ecommerce-website/static/js/main.3113f16c.js.map"
+    "main.css": "/ecommerce_website/static/css/main.3f7b4ed4.css",
+    "main.js": "/ecommerce_website/static/js/main.bb31180f.js",
+    "static/media/teddybear.PNG": "/ecommerce_website/static/media/teddybear.71cc3ca87ee0267a5fc3.PNG",
+    "static/media/gucci.PNG": "/ecommerce_website/static/media/gucci.a8b480c90eff50d2400b.PNG",
+    "static/media/pen.PNG": "/ecommerce_website/static/media/pen.00e16fe8491b9a595bee.PNG",
+    "static/media/eraser.PNG": "/ecommerce_website/static/media/eraser.00f579a77ade638e0fa8.PNG",
+    "static/media/macbook_pro.PNG": "/ecommerce_website/static/media/macbook_pro.45df81ac31dd060c5da8.PNG",
+    "static/media/iPhone14.jpg": "/ecommerce_website/static/media/iPhone14.7301a23f2cea7c1c1615.jpg",
+    "index.html": "/ecommerce_website/index.html",
+    "main.3f7b4ed4.css.map": "/ecommerce_website/static/css/main.3f7b4ed4.css.map",
+    "main.bb31180f.js.map": "/ecommerce_website/static/js/main.bb31180f.js.map"
   },
   "entrypoints": [
     "static/css/main.3f7b4ed4.css",
-    "static/js/main.3113f16c.js"
+    "static/js/main.bb31180f.js"
   ]
 }
