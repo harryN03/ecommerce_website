@@ -7,7 +7,7 @@ function Navbar() {
     <div className='navbar'>
         <h2>Shopping Zone</h2>
         <div> 
-        <Link to="/" className='shop'>Shop</Link>
+        <Link to="/ecommerce_website/" className='shop'>Shop</Link>
         <Link to="/cart" className='cart'>View Cart< GrCart/></Link>
         </div>
     </div>
